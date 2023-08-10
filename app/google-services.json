@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "147022899341",
+    "project_id": "fcmpushnotification-e9ceb",
+    "storage_bucket": "fcmpushnotification-e9ceb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147022899341:android:b86bd2fb0d6c07d4335ac4",
+        "android_client_info": {
+          "package_name": "com.example.firebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147022899341-uo1br0qgtuccnmlaemuiftpc4j6i35et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5JTFfbDQpXHl1Z1B1LsBubgMuR8HVTCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147022899341-uo1br0qgtuccnmlaemuiftpc4j6i35et.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
